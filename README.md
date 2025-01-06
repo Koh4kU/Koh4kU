@@ -161,9 +161,9 @@
 </p>
 
 
-
----
 <!--
+---
+
 ### 🌐 Conecta conmigo:
 <p align="center">
   <a href="https://linkedin.com/in/tuusuario" target="_blank">
