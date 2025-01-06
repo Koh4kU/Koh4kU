@@ -7,9 +7,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koh4ku&label=Profile%20views&color=0e75b6&style=flat" alt="koh4ku" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=koh4ku&label=Profile%20views&color=0e75b6&style=flat" alt="koh4ku" /> </p>
 
 ---
 
