@@ -144,21 +144,21 @@
   <!-- Hydra -->
   Hydra
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/6d6bff26-6e24-44ee-9849-da9b38de2bab" alt="hydra" width="40" height="40" title="Hydra" />
+    <img src="https://github.com/user-attachments/assets/f5e5273a-d2c4-45cc-b741-70a0ade13d32" alt="hydra" width="40" height="40" title="Hydra" />
   </a>&nbsp;&nbsp;
   <!-- Metasploit -->
   Metasploit
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/49ad5440-ecaf-4ef3-b6c4-20ead26c6416" alt="metasploit" width="40" height="40" title="Metasploit" />
+    <img src="https://github.com/user-attachments/assets/f52e23f5-923e-4dcb-8c7a-b8ddf1026b7f" alt="metasploit" width="40" height="40" title="Metasploit" />
   </a>&nbsp;&nbsp;
   <!-- Wireshark -->
   Wireshark
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/81197829-d118-4fac-8afc-f5288c7fb420" alt="wireshark" width="40" height="40" title="Wireshark" />
+    <img src="https://github.com/user-attachments/assets/18077a5d-e472-430b-9889-664d77944fa4" alt="wireshark" width="40" height="40" title="Wireshark" />
   </a>&nbsp;&nbsp;
   PowerShell
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/831d7132-eb93-469f-b328-607845d87a02" alt="powershell" width="40" height="40" title="PowerShell" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40" title="PowerShell" />
   </a>&nbsp;&nbsp;
 </p>
 
